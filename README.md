@@ -16,7 +16,6 @@ Building mobile apps and modern digital experiences.
 
 - Currently building mobile and AI-related projects
 
-- Background at Scania
 
 ---
 
@@ -54,13 +53,14 @@ Building mobile apps and modern digital experiences.
 
 ## Currently Learning
 
-- Machine Learning with Python
 
 - AI Application Development
 
 - Cross-platform mobile development
 
 - Cloud integration
+
+- SwiftUI
 
 ---
 
