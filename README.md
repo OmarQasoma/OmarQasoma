@@ -21,19 +21,19 @@ Building mobile apps and modern digital experiences.
 
 ## Tech Stack
 
-![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)    ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)   
 
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift)  ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
+
+
 
 ---
 
@@ -66,8 +66,10 @@ Building mobile apps and modern digital experiences.
 
 ## GitHub Stats
 
-## GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarQasoma&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarQasoma&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarQasoma&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarQasoma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
