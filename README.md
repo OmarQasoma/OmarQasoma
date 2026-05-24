@@ -23,10 +23,7 @@ Building mobile apps and modern digital experiences.
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-
-
 ![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)    ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
-
 
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)   
 
@@ -64,6 +61,14 @@ Building mobile apps and modern digital experiences.
 
 ---
 
+## Focus Areas
+
+- iOS Development
+- Android Development
+- AI Applications
+- SwiftUI
+- Modern Mobile UI/UX
+- Firebase Integration
 ## GitHub Stats
 
 <p align="center">
