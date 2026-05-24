@@ -12,7 +12,7 @@ Building mobile apps and modern digital experiences.
 
 - Interested in AI, iOS, Android and modern app experiences
 
-- Working with Swift, Kotlin and Java
+- Building mobile apps with Swift, Kotlin and Java
 
 - Currently building mobile and AI-related projects
 
@@ -36,15 +36,13 @@ Building mobile apps and modern digital experiences.
 
 ## Current Projects
 
-- Lugn — Calm Habit Tracker (iOS / SwiftUI)
+- [Lugn — Calm Habit Tracker (iOS / SwiftUI)](https://github.com/OmarQasoma/Lugn)
 
-- HomeCrew — Household management app
+- HomeCrew — Household Management App (iOS / SwiftUI)
 
-- Vän+ inspired wellness concepts
+- Vän+ Inspired Wellness & Habit App
 
-- AI Health Predictor
-
-- iOS and Android course projects
+- AI Health Predictor (AI + Mobile Concept)
 
 ---
 
